@@ -1,13 +1,27 @@
-analytics: {}
+name: Wautier Entertainment
+favicon: null
+layout_spectrum: 0.916941
+typography_spectrum: 0.333059
+title: "If there's anything we do, it's everything."
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors: []
   brandStrength: 0.788651
   lightness: 0.171875
-  rhythmicContrast: 0.838816
   saturation: 1
-cta: {}
-layout_spectrum: 0.916941
-name: Wautier Entertainment
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.333059
+  rhythmicContrast: 0.838816
+purpose:
+  - name: null
+    item: null
+    url: null
