@@ -1,24 +1,24 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Information about our production services
-datePublished: '2015-11-07T02:16:13.631Z'
-dateModified: '2015-11-07T02:16:02.141Z'
+datePublished: '2015-11-07T03:07:46.873Z'
+dateModified: '2015-11-07T03:03:56.994Z'
 title: Production Specialists
+sourcePath: _posts/2015-11-07-production-specialists.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-07-production-specialists.md
-published: true
 url: production-specialists/index.html
-_type: Article
+_type: WebPage
 
 ---
 Production is our specialty.
