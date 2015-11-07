@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wautier Entertainment]]></title>
+        <description><![CDATA[Wautier Entertainment]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 Nov 2015 02:16:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Production Specialists]]></title>
+            <description><![CDATA[<article><h1>Production Specialists</h1><p>Information about our production services</p></article>]]></description>
+            <link>undefinedproduction-specialists/index.html</link>
+            <guid isPermaLink="false">7da497dd-1633-490c-ba24-2e4319a2db1e</guid>
+            <pubDate>Sat, 07 Nov 2015 02:16:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
