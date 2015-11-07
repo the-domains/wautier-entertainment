@@ -4,7 +4,7 @@
         <description><![CDATA[If There's Anything We Do, It's EVERYthing...]]></description>
         <link>http://www.wautierent.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 02:57:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 03:08:11 GMT</lastBuildDate>
         <atom:link href="http://www.wautierent.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DJ Services]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.wautierent.com/dj-services/index.html</link>
             <guid isPermaLink="false">9f28ae49-92f6-4c91-bb4a-82ab9cb3db67</guid>
             <pubDate>Sat, 07 Nov 2015 02:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Production Specialists]]></title>
-            <description><![CDATA[<article><h1>Production Specialists</h1><p>Information about our production services</p></article>]]></description>
-            <link>http://www.wautierent.com/production-specialists/index.html</link>
-            <guid isPermaLink="false">7da497dd-1633-490c-ba24-2e4319a2db1e</guid>
-            <pubDate>Sat, 07 Nov 2015 02:16:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
