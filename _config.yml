@@ -1,7 +1,7 @@
 name: Wautier Entertainment
 favicon: null
-layout_spectrum: 0.17976
-typography_spectrum: 0.56974
+layout_spectrum: 0.9281
+typography_spectrum: 0.65664
 title: "If There's Anything We Do, It's EVERYthing..."
 cta:
   domain: null
@@ -23,9 +23,9 @@ color:
     - '#d3d3d3'
     - '#555555'
   brandStrength: 0.5
-  lightness: 0.3125
-  saturation: 1
-  rhythmicContrast: 0.838816
+  lightness: 0.1875
+  saturation: 0.4375
+  rhythmicContrast: 1
 purpose:
   - name: null
     item: null
