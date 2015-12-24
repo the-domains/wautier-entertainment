@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[If There's Anything We Do, It's EVERYthing...]]></title>
-        <description><![CDATA[If There's Anything We Do, It's EVERYthing...]]></description>
+        <title><![CDATA[A Blog by Nicholas Wautier]]></title>
+        <description><![CDATA[A Blog by Nicholas Wautier]]></description>
         <link>http://www.wautierent.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 17:01:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 17:05:18 GMT</lastBuildDate>
         <atom:link href="http://www.wautierent.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I am a DJ.</p>]]></description>
+            <title><![CDATA[A Little About Me]]></title>
+            <description><![CDATA[<article><h1>A Little About Me</h1><p>I am a DJ.</p></article>]]></description>
             <link>http://www.wautierent.com/72dccc62-a7c7-4e3f-8cc2-dfe700fa9636/index.html</link>
             <guid isPermaLink="false">72dccc62-a7c7-4e3f-8cc2-dfe700fa9636</guid>
-            <pubDate>Thu, 24 Dec 2015 17:01:11 GMT</pubDate>
+            <pubDate>Thu, 24 Dec 2015 17:05:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
