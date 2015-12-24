@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[If There's Anything We Do, It's EVERYthing...]]></title>
         <description><![CDATA[If There's Anything We Do, It's EVERYthing...]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.wautierent.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 20:26:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Dec 2015 17:01:20 GMT</lastBuildDate>
+        <atom:link href="http://www.wautierent.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I am a DJ.</p>]]></description>
-            <link>undefined72dccc62-a7c7-4e3f-8cc2-dfe700fa9636/index.html</link>
+            <link>http://www.wautierent.com/72dccc62-a7c7-4e3f-8cc2-dfe700fa9636/index.html</link>
             <guid isPermaLink="false">72dccc62-a7c7-4e3f-8cc2-dfe700fa9636</guid>
-            <pubDate>Tue, 15 Dec 2015 20:26:14 GMT</pubDate>
+            <pubDate>Thu, 24 Dec 2015 17:01:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
