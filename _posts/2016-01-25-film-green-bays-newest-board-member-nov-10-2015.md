@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Announcement of involvement on the Board of Directors for Film Green Bay
-datePublished: '2016-01-25T05:52:26.911Z'
+datePublished: '2016-01-25T05:52:26.949Z'
 dateModified: '2016-01-25T05:52:22.898Z'
 author: []
 title: "Film Green Bay's Newest Board Member - Nov 10, 2015"
