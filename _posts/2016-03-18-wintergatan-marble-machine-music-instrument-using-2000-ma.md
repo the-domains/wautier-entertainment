@@ -16,9 +16,9 @@ keywords:
   - video
   - knutssons
   - dreamhack
-description: 'Get the audio track "Marble Machine" by Wintergatan: https://wintergatan.bandcamp.com/track/marble-machine Marble Machine built and composed by Martin Molin Video filmed and edited by Hannes Knutsson Costume designed by Angelique Nagtegaal See Sommarfågel music video by Wintergatan: https://youtu.be/SBK2AF-NdVA See Starmachine2000 music video by Wintergatan: https://youtu.be/rEeiRXOlWUE Swedish band Wintergatan will play live concerts starting from summer 2016.'
-datePublished: '2016-03-18T17:20:57.418Z'
-dateModified: '2016-03-18T17:20:00.843Z'
+description: "This is one of the coolest things I've seen in a long time. \_If I had the time, and energy, I'd love to build one of these. \_Watch and listen, then follow his links to see the making-of videos."
+datePublished: '2016-03-18T17:21:49.424Z'
+dateModified: '2016-03-18T17:21:05.630Z'
 author:
   - name: Wintergatan
     url: 'https://www.youtube.com/user/wintergatan2000'
