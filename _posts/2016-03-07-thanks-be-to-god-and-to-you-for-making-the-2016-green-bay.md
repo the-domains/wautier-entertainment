@@ -17,8 +17,8 @@ keywords:
   - thanks
   - happy
 description: 'Thank you to The Diocese for allowing me to be a part of their most special event, and major props to Larry Schneider at LA Video for the tremendous editing and handheld camera work!'
-datePublished: '2016-03-18T17:18:59.204Z'
-dateModified: '2016-03-18T17:18:45.588Z'
+datePublished: '2016-03-18T17:20:33.435Z'
+dateModified: '2016-03-18T17:20:28.310Z'
 author:
   - name: Diocese of Green Bay
     url: 'http://facebook.com/128110617292885'
@@ -67,7 +67,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-I am very proud to have been part of this amazing event for men of faith presented by the Green Bay Catholic Diocese.  With over 1500 men in attendance, this is one of the largest events I have been a part of that was entirely voluntary.
-
-Thank you to The Diocese for allowing me to be a part of their most special event, and major props to Larry Schneider at LA Video for the tremendous editing and handheld camera work!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/060ceb533abe6eeb5e650a785089ddd8eb4817c8.jpg)
