@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Announcement of involvement on the Board of Directors for Film Green Bay
-datePublished: '2016-01-25T05:52:27.063Z'
-dateModified: '2016-01-25T05:52:22.898Z'
+description: "I am excited to announce that as of today, November 9, 2015, I have accepted a position on the board of directors of Film Green Bay. \_In addition to the production of the Green Bay Film Festival, FGB hosts filmmaker workshops, resource databases, screenings, and events designed to encourage the growth of and appreciation for film."
+datePublished: '2016-03-18T17:22:02.778Z'
+dateModified: '2016-03-18T17:21:17.554Z'
 author: []
 title: "Film Green Bay's Newest Board Member - Nov 10, 2015"
 sourcePath: _posts/2016-01-25-film-green-bays-newest-board-member-nov-10-2015.md
