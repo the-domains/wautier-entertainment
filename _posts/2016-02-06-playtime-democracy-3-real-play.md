@@ -14,13 +14,13 @@ description: Here I play Democracy 3 and pretend to be the leader of the United 
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=vSSxBe_v8Ag'
 title: 'PlayTime: Democracy 3 Real Play'
-datePublished: '2016-02-06T23:11:52.301Z'
-dateModified: '2016-02-06T23:11:32.600Z'
+datePublished: '2016-03-18T17:18:53.442Z'
+dateModified: '2016-03-07T04:50:44.116Z'
 inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 authors: []
 sourcePath: _posts/2016-02-06-playtime-democracy-3-real-play.md
 published: true
