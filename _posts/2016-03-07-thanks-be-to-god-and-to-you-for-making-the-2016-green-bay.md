@@ -17,8 +17,8 @@ keywords:
   - thanks
   - happy
 description: 'Thank you to The Diocese for allowing me to be a part of their most special event, and major props to Larry Schneider at LA Video for the tremendous editing and handheld camera work!'
-datePublished: '2016-03-18T17:21:53.478Z'
-dateModified: '2016-03-18T17:20:41.962Z'
+datePublished: '2016-03-18T17:51:58.330Z'
+dateModified: '2016-03-18T17:51:34.306Z'
 author:
   - name: Diocese of Green Bay
     url: 'http://facebook.com/128110617292885'
