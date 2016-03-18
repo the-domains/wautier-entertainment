@@ -1,29 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=vSSxBe_v8Ag'
+inLanguage: null
+starred: false
+keywords: []
+description: Here I play Democracy 3 and pretend to be the leader of the United States of America. Join the live discussion and help me make decisions with one major goal in mind. What will make me popular with my constituants?
+datePublished: '2016-03-18T17:21:57.992Z'
+dateModified: '2016-03-18T17:21:11.126Z'
 author:
   - name: Nicholas Wautier
     url: 'https://www.youtube.com/user/NickSentowski'
     avatar: {}
 related: []
+app_links: []
+title: 'PlayTime: Democracy 3 Real Play'
+sourcePath: _posts/2016-02-06-playtime-democracy-3-real-play.md
+published: true
+authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-keywords: []
-description: Here I play Democracy 3 and pretend to be the leader of the United States of America. Join the live discussion and help me make decisions with one major goal in mind. What will make me popular with my constituants?
-app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=vSSxBe_v8Ag'
-title: 'PlayTime: Democracy 3 Real Play'
-datePublished: '2016-03-18T17:18:53.442Z'
-dateModified: '2016-03-07T04:50:44.116Z'
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: false
-authors: []
-sourcePath: _posts/2016-02-06-playtime-democracy-3-real-play.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
