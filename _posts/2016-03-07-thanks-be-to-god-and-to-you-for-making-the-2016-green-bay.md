@@ -16,9 +16,9 @@ keywords:
   - success
   - thanks
   - happy
-description: "Thanks be to God, and to you, for making the 2016 Green Bay Men's Conference a great success!"
-datePublished: '2016-03-07T04:06:58.638Z'
-dateModified: '2016-03-07T04:06:42.378Z'
+description: 'Thank you to The Diocese for allowing me to be a part of their most special event, and major props to Larry Schneider at LA Video for the tremendous editing and handheld camera work!'
+datePublished: '2016-03-18T17:18:36.673Z'
+dateModified: '2016-03-18T17:18:36.181Z'
 author:
   - name: Diocese of Green Bay
     url: 'http://facebook.com/128110617292885'
@@ -55,14 +55,14 @@ app_links:
     namespace: ai
     app_name: Facebook
     app_store_id: '284882215'
+sourcePath: _posts/2016-03-07-thanks-be-to-god-and-to-you-for-making-the-2016-green-bay.md
+published: true
 authors: []
 publisher:
   name: Facebook
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
-sourcePath: _posts/2016-03-07-thanks-be-to-god-and-to-you-for-making-the-2016-green-bay.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 
