@@ -1,20 +1,4 @@
-name: Wautier Entertainment
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.95364
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-12570213-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,7 +10,24 @@ color:
   lightness: 0.4375
   saturation: 0.75
   rhythmicContrast: 0.25
-purpose:
-  - name: null
-    item: null
-    url: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: UA-12570213-1
+  facebook: null
+  twitter: null
+name: Wautier Entertainment
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: DJ & Karaoke
+    id: 0fc92f01-d9c5-439e-b4ef-92778fb93878
+    type: content
+favicon: null
+title: null
+purpose: []
