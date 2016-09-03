@@ -28,6 +28,9 @@ navigation:
   - name: DJ & Karaoke
     id: 0fc92f01-d9c5-439e-b4ef-92778fb93878
     type: content
+  - name: Video Production
+    id: 86328951-23d8-44bd-9086-bc47d2ec43d8
+    type: content
 favicon: null
 title: null
 purpose: []
