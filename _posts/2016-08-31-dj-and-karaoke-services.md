@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T14:40:05.715Z'
+datePublished: '2016-08-31T14:40:24.165Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T14:40:03.459Z'
+dateModified: '2016-08-31T14:40:23.740Z'
 title: DJ & Karaoke Services
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-31-dj-and-karaoke-services.md
-_type: Blurb
+hasPage: true
+starred: false
+url: dj-and-karaoke-services/index.html
+_type: Article
 
 ---
 # DJ & Karaoke Services
