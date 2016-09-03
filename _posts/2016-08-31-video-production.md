@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T14:41:57.569Z'
+datePublished: '2016-08-31T14:42:11.093Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T14:41:54.120Z'
+dateModified: '2016-08-31T14:42:10.794Z'
 title: Video Production
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-31-video-production.md
-_type: Blurb
+hasPage: true
+starred: false
+url: video-production/index.html
+_type: Article
 
 ---
 # Video Production
