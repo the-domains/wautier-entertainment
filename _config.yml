@@ -31,6 +31,9 @@ navigation:
   - name: Video Production
     id: 86328951-23d8-44bd-9086-bc47d2ec43d8
     type: content
+  - name: Podcasting & Event Hosting
+    id: dca49d97-bbb4-491a-a77c-1f3961569e76
+    type: content
 favicon: null
 title: null
 purpose: []
