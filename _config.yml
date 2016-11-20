@@ -1,4 +1,4 @@
-typography_spectrum: 0.95364
+typography_spectrum: 0.4431737637853637
 color:
   brandColors:
     - '#ffffff'
@@ -6,35 +6,34 @@ color:
     - '#a9233e'
     - '#c3c3c3'
     - '#5f5f5f'
-  brandStrength: 0.1875
-  lightness: 0.4375
-  saturation: 0.75
-  rhythmicContrast: 0.25
+  brandStrength: 0.48206636501208755
+  lightness: 0.8923097468858198
+  saturation: 0.2117745538504038
+  rhythmicContrast: 0.5674226453296362
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 1
+layout_spectrum: 0.7040875343181708
 analytics:
   google: UA-12570213-1
   facebook: null
   twitter: null
+author:
+  name: Nicholas Wautier
+  email: admin@wautierent.com
 name: Wautier Entertainment
 cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: DJ & Karaoke
-    id: 0fc92f01-d9c5-439e-b4ef-92778fb93878
-    type: content
-  - name: Video Production
-    id: 86328951-23d8-44bd-9086-bc47d2ec43d8
-    type: content
-  - name: Podcasting & Event Hosting
-    id: dca49d97-bbb4-491a-a77c-1f3961569e76
-    type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc2b470d-263a-49c7-a791-589dc5c33366.jpg
 title: null
+content: []
 description: 'If there''s anything we do, it''s EVERYthing'
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:contactus@wautierent.com'
+    label: Contact me
