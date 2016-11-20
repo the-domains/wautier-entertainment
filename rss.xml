@@ -4,14 +4,36 @@
         <description><![CDATA[Wautier Entertainment]]></description>
         <link>http://www.wautierent.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 14:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2016 03:13:04 GMT</lastBuildDate>
         <atom:link href="http://www.wautierent.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 20 Nov 2016 03:12:56 GMT</pubDate>
         <item>
             <title><![CDATA[I Am]]></title>
-            <description><![CDATA[<article><h1>I Am</h1><p>I am a DJ.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed0221223b5fb1bc25dfd5a4e6f4a93a05cc000c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>I Am</h1><p>I am a DJ.</p></article>]]></description>
             <link>https://www.facebook.com/photo.php?fbid=10153547102110542&amp;set=a.10150259561935542.492553.579565541&amp;type=3&amp;theater</link>
             <guid isPermaLink="false">eb2eda80-f276-46b7-918c-36daea46622b</guid>
-            <pubDate>Wed, 31 Aug 2016 14:35:16 GMT</pubDate>
+            <pubDate>Sun, 20 Nov 2016 03:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Latest Tweets]]></title>
+            <description><![CDATA[<article><h1>Latest Tweets</h1><p>The latest Tweets from Nicholas Wautier (@WautierEnt). While I am an official representative of @cameracorner, the views expressed on this account are my own, and do not represent Camera Corner in any way. Green Bay, WI</p></article>]]></description>
+            <link>http://www.twitter.com/WautierEnt</link>
+            <guid isPermaLink="false">312c1d76-7a73-4e6c-a59d-1e8571328bf4</guid>
+            <pubDate>Sun, 20 Nov 2016 03:07:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Video Production]]></title>
+            <description><![CDATA[<h1>Video Production</h1>]]></description>
+            <link>http://www.wautierent.com/video-production/index.html</link>
+            <guid isPermaLink="false">86328951-23d8-44bd-9086-bc47d2ec43d8</guid>
+            <pubDate>Wed, 31 Aug 2016 14:42:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DJ & Karaoke Services]]></title>
+            <description><![CDATA[<h1>DJ & Karaoke Services</h1>]]></description>
+            <link>http://www.wautierent.com/dj-and-karaoke-services/index.html</link>
+            <guid isPermaLink="false">0fc92f01-d9c5-439e-b4ef-92778fb93878</guid>
+            <pubDate>Wed, 31 Aug 2016 14:40:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
